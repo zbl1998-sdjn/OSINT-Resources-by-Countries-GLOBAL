@@ -1,10 +1,11 @@
-# OSINT Resources by Country
+# OSINT Resources by Country (GLOBAL)
 
 > **Every country leaves a trail. The work is knowing where to look, what to connect, and what to verify.**
 
 Welcome to the **OSINT Resources by Country** repository — a country-focused collection of publicly available **Open Source Intelligence (OSINT) tools, websites, databases, investigative resources, and research projects**. Organized by country, this repository is designed to make reconnaissance and intelligence gathering more structured, efficient, and easier to navigate.
 
 **The information is public. The investigation is yours.**
+**Curated by - D-XPL01T**
 
 Check the - [Resources containing multi-country links](#resources-containing-multi-country-links)
 
