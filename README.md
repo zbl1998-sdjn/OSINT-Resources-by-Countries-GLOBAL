@@ -9,56 +9,6 @@ Welcome to the **OSINT Resources by Country** repository — a country-focused c
 
 Check the - [Resources containing multi-country links](#resources-containing-multi-country-links)
 
-## Table of Contents
-
-- [Albania](#albania)
-- [Argentina](#argentina)
-- [Armenia](#armenia)
-- [Australia](#australia)
-- [Austria](#austria)
-- [Belarus](#belarus)
-- [Belgium](#belgium)
-- [Brazil](#brazil)
-- [Bulgaria](#bulgaria)
-- [Canada](#canada)
-- [China](#china)
-- [Colombia](#colombia)
-- [Czechia](#czechia)
-- [France](#france)
-- [Hungary](#hungary)
-- [Iceland](#iceland)
-- [India](#india)
-- [Indonesia](#indonesia)
-- [Iran](#iran)
-- [Israel](#israel)
-- [Japan](#japan)
-- [Kazakhstan](#kazakhstan)
-- [Kyrgyzstan](#kyrgyzstan)
-- [Malaysia](#malaysia)
-- [Mexico](#mexico)
-- [Netherlands](#netherlands)
-- [New Zealand](#new-zealand)
-- [North Korea](#north-korea)
-- [Pakistan](#pakistan)
-- [Poland](#poland)
-- [Russia](#russia)
-- [Saudi Arabia](#saudi-arabia)
-- [South Africa](#south-africa)
-- [South Korea](#south-korea)
-- [Switzerland](#switzerland)
-- [Syria](#syria)
-- [Taiwan](#taiwan)
-- [Tajikistan](#tajikistan)
-- [Thailand](#thailand)
-- [United Arab Emirates](#united-arab-emirates)
-- [United Kingdom](#united-kingdom)
-- [USA](#usa)
-- [Uzbekistan](#uzbekistan)
-- [Resources containing multi-country links](#resources-containing-multi-country-links)
-- [Contributing](#contributing)
-
----
-
 ## Albania
 
 > *Tirana does not bury its secrets behind firewalls; it conceals them beneath layers of cadastre disputes, Adriatic shipping manifests, and family ties absent from corporate filings. When tracking shadows across the Balkans, the paper trail is fractured—you do not rely on one database, you triangulate the silence.*
